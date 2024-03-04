@@ -1,1 +1,1 @@
-ntroduction to JS
+Intro to js
